@@ -1095,6 +1095,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/) 
 * [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 * [GitHub Repositories of Hugging Face](https://github.com/huggingface)
+* [Colorify AI](https://colorifyai.art/): free AI coloring page generator
 
 ### Inbox: Stable Diffusion
 
