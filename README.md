@@ -1039,6 +1039,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
 * [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 * [hwaseem04/Research-digest](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
+* [AI Video Transcriber](https://aivideotranscriber.io/): Transcribe Any Video to Text with AI Video Transcriber Free Online.
 
 ### AI Tools for Searching
 
